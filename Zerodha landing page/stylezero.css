@@ -8,6 +8,8 @@
 .dick{
     display:flex;
     justify-content:space-between;
+    padding-top:20px;
+    padding-bottom:20px;
     margin-left:100px;
     margin-right:100px;
 }
@@ -15,7 +17,8 @@
     display:flex;
     padding-right:10px;
 }
-.img{
+.land{
     display:flex;
-    justify-content:center;
+    padding-left:220px;
+
 }
