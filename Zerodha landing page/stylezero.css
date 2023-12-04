@@ -3,7 +3,7 @@
 }*/
 .logo{
     margin-left:10px;
-    padding-right:100px;
+    padding-right:10px;
 }
 .dick{
     display:flex;
@@ -13,6 +13,7 @@
 }
 .sub{
     display:flex;
+    padding-right:10px;
 }
 .img{
     display:flex;
